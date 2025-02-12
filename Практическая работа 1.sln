@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практическая работа 1", "Практическая работа 1\Практическая работа 1.csproj", "{BEA10232-6524-439B-B2EC-2A36223446E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практическая работа 3 Фибоначчи", "Практическая работа 3 Фибоначчи\Практическая работа 3 Фибоначчи.csproj", "{BE3A560F-90AF-49DE-822F-D9FF259157BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BEA10232-6524-439B-B2EC-2A36223446E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEA10232-6524-439B-B2EC-2A36223446E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEA10232-6524-439B-B2EC-2A36223446E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3A560F-90AF-49DE-822F-D9FF259157BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3A560F-90AF-49DE-822F-D9FF259157BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3A560F-90AF-49DE-822F-D9FF259157BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3A560F-90AF-49DE-822F-D9FF259157BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
